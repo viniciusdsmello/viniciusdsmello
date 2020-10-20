@@ -1,7 +1,6 @@
 ### Hey! 👋
 
-I'm currently a Data Engineer at [hurb.com](https://hurb.com). I have experience in Software Engineering, Data Processing, and Management, and
-Machine Learning. I also have an interest in Natural Language Processing and Image Processing.
+I'm currently a Data Engineer at [hurb.com](https://hurb.com). I have experience in Digital Signal Processing, Electronics, Software Engineering, Data Processing, and Machine Learning. I also have an interest for other areas like DevOps.
 
 For the past 3 years, I have been working on Novelty Detection in Passive Sonar Systems, which is a Research Project in collaboration with the Brazilian Navy Research Institute (IPqM).
 

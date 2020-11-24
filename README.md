@@ -1,5 +1,6 @@
-<h2> Hey, I'm Vinícius Mello 👋 </br>
-</h2>
+<h2 align="center"> Hey, I'm Vinícius Mello 👋</h2></br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusdsmello&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusdsmello" /> </p>
 
 <h3> 👨🏻‍💻 About Me </h3>
 

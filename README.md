@@ -17,9 +17,16 @@ For the past 3 years, I have been working on Novelty Detection in Passive Sonar 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusdsmello/)
 
 
-### Code ranking:
+**A brief github status:** 
 
-[![viniciusdsmello's github stats](https://github-readme-stats.vercel.app/api?username=viniciusdsmello)](https://github.com/viniciusdsmello)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdsmello&hide=javascript,html,css&theme=onedark" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=viniciusdsmello&show_icons=true&theme=onedark" />
+</a>
+
 
 <!--
 **viniciusdsmello/viniciusdsmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

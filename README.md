@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Bachelor in Electronics and Computer Engineering.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🙂 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; I'm currently working full-time as Data Engineer at [**Hurb**](https://hurb.com)
 - 🌱 &nbsp; Learning more about Cloud Architecture, Machine Learning Systems Design and Distributed Processing.
 - 🌱 &nbsp; I also have a keen interest in: **Deep Learning**, **Natural Language Processing**

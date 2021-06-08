@@ -8,7 +8,7 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Machine Learning Systems Design and Distributed Processing.
 - 🤖 &nbsp; I also have a keen interest in: **Deep Learning**, **Natural Language Processing**
 
-For the past 3 years, I have been working on Novelty Detection in Passive Sonar Systems, which is a Research Project in collaboration with the Brazilian Navy Research Institute (IPqM). You can find my published papers at [ResearchGate](https://www.researchgate.net/profile/Vinicius_Mello4/)
+For the past 4 years, I have been working on Novelty Detection in Passive Sonar Systems, which is a Research Project in collaboration with the Brazilian Navy Research Institute (IPqM). You can find my published papers at [ResearchGate](https://www.researchgate.net/profile/Vinicius_Mello4/)
 
 <i>Follow me:</i><br>
 

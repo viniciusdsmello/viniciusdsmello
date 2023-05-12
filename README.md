@@ -1,14 +1,29 @@
-<h2 align="center"> Hey, I'm Vinícius Mello 👋</h2></br>
+# Hey, I'm Vinícius Mello 👋
 
-<h3> 👨🏻‍💻 About Me </h3>
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+## 👨🏻‍💻 About Me
 
 - 🎓 &nbsp; Electronics and Computer Engineer.
 - 🙂 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; I'm currently working full-time as Senior Data Engineer at [**Hurb**](https://hurb.com)
 - 🌱 &nbsp; Learning more about Cloud Architecture, Machine Learning Systems Design and Distributed Processing.
-- 🤖 &nbsp; I also have a keen interest in: **Deep Learning**, **Natural Language Processing** and **Digital Signal Processing**
+- 🤖 &nbsp; I also have a keen interest in: **Data Governance**, **MLOps** and **Systems Design**.  
 
-For the past 6 years, I have been working on Novelty Detection in Passive Sonar Systems, which is a Research Project in collaboration with the Brazilian Navy Research Institute (IPqM). You can find my published papers at [ResearchGate](https://www.researchgate.net/profile/Vinicius_Mello4/)
+For the past 6 years, I have been working on Applied Machine Learning on Novelty Detection in Passive Sonar Systems, which is a Research Project in collaboration with the Brazilian Navy Research Institute (IPqM). You can find my published papers at [ResearchGate](https://www.researchgate.net/profile/Vinicius_Mello4/)
+
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-GCP-informational?style=flat&logo=google&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon&logoColor=white&color=blueviolet)
 
 <i>Follow me:</i><br>
 
@@ -25,18 +40,3 @@ For the past 6 years, I have been working on Novelty Detection in Passive Sonar 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=viniciusdsmello&show_icons=true&theme=onedark" />
 </a>
 
-
-<!--
-**viniciusdsmello/viniciusdsmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

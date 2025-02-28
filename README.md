@@ -89,3 +89,95 @@ Interested in working together? Contact me through [Upwork](https://www.upwork.c
 
 ![Vinícius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viniciusdsmello&theme=react-dark)
 
+# Personal Website - Vinicius Mello
+
+This repository contains the source code for my personal website, built with [Hugo](https://gohugo.io/) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme. The website showcases my professional background, projects, companies I've worked for, and articles I've written.
+
+## Structure
+
+The website is organized into the following sections:
+
+- **Home**: Landing page with basic information
+- **About**: Detailed information about me and my skills
+- **Articles**: Blog posts and articles I've written
+- **Projects**: Showcase of my professional and personal projects
+- **Companies**: Companies I've worked for
+- **Contact**: Contact information and form
+
+## Local Development
+
+### Prerequisites
+
+- [Hugo Extended](https://gohugo.io/installation/) (v0.111.3 or newer)
+- Git
+
+### Running Locally
+
+1. Clone this repository:
+   ```
+   git clone https://github.com/viniciusdsmello/viniciusdsmello.github.io.git
+   cd viniciusdsmello.github.io
+   ```
+
+2. Start the Hugo development server:
+   ```
+   hugo server -D
+   ```
+
+3. Open your browser and visit http://localhost:1313/
+
+## Creating New Content
+
+### New Article
+
+```bash
+hugo new content posts/my-new-article.md
+```
+
+Then edit the created file at `content/posts/my-new-article.md`.
+
+### New Project
+
+```bash
+hugo new content projects/my-new-project.md
+```
+
+Then edit the created file at `content/projects/my-new-project.md`.
+
+### New Company
+
+```bash
+hugo new content companies/company-name.md
+```
+
+Then edit the created file at `content/companies/company-name.md`.
+
+## Deployment
+
+The website is automatically deployed to GitHub Pages when changes are pushed to the main branch, using GitHub Actions.
+
+## Adding Images
+
+Place images in the `static/images` directory:
+
+- Profile images: `static/images/`
+- Blog images: `static/images/blog/`
+- Company logos: `static/images/companies/`
+- Project images: `static/images/projects/`
+
+Reference them in your markdown files like this:
+```markdown
+![Image Alt Text](/images/blog/image-name.jpg)
+```
+
+## Customization
+
+To modify the website's appearance:
+
+1. Edit the `hugo.yaml` file to change site-wide settings
+2. Modify or override theme components by creating files in the `layouts` directory
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+

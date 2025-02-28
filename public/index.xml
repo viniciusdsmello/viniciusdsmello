@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vinicius Mello - Data &amp; ML Engineer</title>
+    <link>https://viniciusdsmello.github.io/</link>
+    <description>Recent content on Vinicius Mello - Data &amp; ML Engineer</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://viniciusdsmello.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Complex Tasks Orchestration with Apache Airflow</title>
+      <link>https://viniciusdsmello.github.io/projects/airflow-orchestration/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://viniciusdsmello.github.io/projects/airflow-orchestration/</guid>
+      <description>How I implemented complex data workflow orchestration at Hurb using Apache Airflow</description>
+    </item>
+    <item>
+      <title>Hurb</title>
+      <link>https://viniciusdsmello.github.io/companies/hurb/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://viniciusdsmello.github.io/companies/hurb/</guid>
+      <description>Data &amp;amp; ML Engineering at a leading travel tech company</description>
+    </item>
+    <item>
+      <title>Data Quality: A Lesson from the Myth Behind Popeye</title>
+      <link>https://viniciusdsmello.github.io/projects/data-quality/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://viniciusdsmello.github.io/projects/data-quality/</guid>
+      <description>Exploring the importance of data quality through an interesting parallel with the Popeye myth</description>
+    </item>
+    <item>
+      <title>Intuitive Care</title>
+      <link>https://viniciusdsmello.github.io/companies/intuitive-care/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://viniciusdsmello.github.io/companies/intuitive-care/</guid>
+      <description>Healthcare data engineering and analysis</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://viniciusdsmello.github.io/about/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://viniciusdsmello.github.io/about/</guid>
+      <description>&lt;h1 id=&#34;hello-im-vinicius-mello-a-data--machine-learning-engineer&#34;&gt;Hello! I&amp;rsquo;m Vinicius Mello, a Data &amp;amp; Machine Learning Engineer&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m an engineer with a strong passion for developing business through the creation of Data Products that make a real difference in the world. From AI applications to highly scalable data pipelines, I love working on projects that have a tangible impact.&lt;/p&gt;
+&lt;p&gt;With a solid background in Machine Learning and Data Engineering, I&amp;rsquo;m able to handle the entire development process from start to finish.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building Effective Data Pipelines: Best Practices and Lessons Learned</title>
+      <link>https://viniciusdsmello.github.io/posts/effective-data-pipelines/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://viniciusdsmello.github.io/posts/effective-data-pipelines/</guid>
+      <description>&lt;h1 id=&#34;building-effective-data-pipelines-best-practices-and-lessons-learned&#34;&gt;Building Effective Data Pipelines: Best Practices and Lessons Learned&lt;/h1&gt;
+&lt;p&gt;Data pipelines are the backbone of any data-driven organization. They transport, transform, and deliver data from various sources to destinations where it can be analyzed and used for business decisions. Throughout my career as a Data Engineer, I&amp;rsquo;ve learned valuable lessons about designing and maintaining effective data pipelines. In this article, I&amp;rsquo;ll share some of these insights.&lt;/p&gt;
+&lt;h2 id=&#34;the-fundamentals-of-effective-data-pipelines&#34;&gt;The Fundamentals of Effective Data Pipelines&lt;/h2&gt;
+&lt;h3 id=&#34;1-idempotency-is-non-negotiable&#34;&gt;1. Idempotency is Non-Negotiable&lt;/h3&gt;
+&lt;p&gt;One of the most important characteristics of a robust data pipeline is idempotency - the property that running the same pipeline multiple times with the same input should produce the same output, without side effects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://viniciusdsmello.github.io/contact/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://viniciusdsmello.github.io/contact/</guid>
+      <description>&lt;h1 id=&#34;get-in-touch&#34;&gt;Get In Touch&lt;/h1&gt;
+&lt;p&gt;Do you have a project in mind? Feel free to reach out!&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s connect and discuss how I can assist you. Please use one of the contact methods below, and I will reach out to you promptly. Alternatively, you can also reach out to me through social media. I look forward to hearing from you soon!&lt;/p&gt;
+&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Rio de Janeiro, Rio de Janeiro, Brazil&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; +55 (21) 97200-4618&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:viniciusdsmello@gmail.com&#34;&gt;viniciusdsmello@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;social-media&#34;&gt;Social Media&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/viniciusdsmello/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/viniciusdsmello&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contact-form&#34;&gt;Contact Form&lt;/h2&gt;
+&lt;p&gt;If you prefer, you can also reach me through &lt;a href=&#34;https://formspree.io/f/mgebjnpb&#34;&gt;this contact form&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Taking Machine Learning Models to Production: A Practical Guide</title>
+      <link>https://viniciusdsmello.github.io/posts/machine-learning-in-production/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://viniciusdsmello.github.io/posts/machine-learning-in-production/</guid>
+      <description>&lt;h1 id=&#34;taking-machine-learning-models-to-production-a-practical-guide&#34;&gt;Taking Machine Learning Models to Production: A Practical Guide&lt;/h1&gt;
+&lt;p&gt;Developing a machine learning model in a Jupyter notebook is just the beginning of the journey. Deploying and maintaining ML models in production environments presents an entirely different set of challenges. In this article, I&amp;rsquo;ll share practical advice for successfully transitioning ML models from experimentation to production.&lt;/p&gt;
+&lt;h2 id=&#34;the-ml-production-gap&#34;&gt;The ML Production Gap&lt;/h2&gt;
+&lt;p&gt;There&amp;rsquo;s often a significant gap between developing a model and deploying it in production. This gap exists because:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

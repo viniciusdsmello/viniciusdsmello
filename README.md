@@ -3,18 +3,19 @@
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![Profile Views](https://komarev.com/ghpvc/?username=viniciusdsmello&color=blueviolet)
 
-> Staff Data & ML Engineer specialized in building scalable data platforms and distributed training systems. Former Chief Data Officer (CDO) at Hurb where I led a team of 25 professionals. With a background in electronics and computer engineering, I bring a unique blend of management experience and technical expertise to solve complex data challenges. I also serve as a Tech Advisor to startups, helping them navigate technology decisions and implement effective data strategies.
+> Head of Solutions Engineering, LatAm at [Openlayer](https://openlayer.com), specializing in AI Governance, AI Observability, and Evals. Former Chief Data Officer (CDO) at Hurb where I led a team of 25 professionals. With a background in electronics and computer engineering, I bring a unique blend of management experience and technical expertise to solve complex AI and data challenges. I also serve as a Tech Advisor to startups, helping them navigate technology decisions and implement effective AI strategies.
 
 ## 👨🏻‍💻 About Me
 
 - 🎓 &nbsp; Electronics and Computer Engineer.
 - 🙂 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; I'm currently working as a Staff Data & ML Engineer, creating Data Platforms.
-- 📊 &nbsp; Previously served as Chief Data Officer (CDO) at Hurb, where I led a team of 25 professionals.
+- 💼 &nbsp; Currently Head of Solutions Engineering, LatAm at [Openlayer](https://openlayer.com).
+- 🤖 &nbsp; Focused on AI Governance, AI Observability, and Evals.
+- 📊 &nbsp; Previously served as Chief Data Officer (CDO) at Hurb.
 - 🚀 &nbsp; Recently more involved in distributed training with Ray.
-- 💡 &nbsp; I provide consultancy services to startups in data engineering and ML solutions.
-- 🔮 &nbsp; Tech Advisor for innovative startups like [Openlayer.com](https://openlayer.com).
-- 🤖 &nbsp; I also have a keen interest in: **Data Governance**, **MLOps** and **Systems Design**.  
+- 💡 &nbsp; I provide consultancy services to startups in AI and data engineering solutions.
+- 🔮 &nbsp; Tech Advisor for innovative startups.
+- 🧠 &nbsp; I also have a keen interest in: **AI Governance**, **AI Observability**, **MLOps** and **Systems Design**.
 
 For the past 8 years, I have been working on Applied Machine Learning on Novelty Detection in Passive Sonar Systems, a Research Project in collaboration with the Brazilian Navy Research Institute (IPqM). You can find my published papers at [ResearchGate](https://www.researchgate.net/profile/Vinicius-Mello)
 
@@ -22,17 +23,18 @@ For the past 8 years, I have been working on Applied Machine Learning on Novelty
 
 I offer expert consulting in:
 
-- **Data Strategy & Leadership** - Helping organizations define and implement effective data strategies
-- **Tech Advisory** - Strategic technology guidance for startups like [Openlayer.com](https://openlayer.com)
-- **Data Team Management** - Building and leading high-performing data teams based on my experience as CDO
-- **Tech & Management Balance** - Bridging the gap between technical implementations and business objectives
+- **AI Governance & Strategy** - Implementing robust AI governance frameworks and policies
+- **AI Observability & Monitoring** - Building comprehensive AI monitoring and evaluation systems
+- **AI Model Evaluation (Evals)** - Designing and implementing evaluation frameworks for AI systems
+- **Tech Advisory** - Strategic technology guidance for startups, leveraging my experience at [Openlayer](https://openlayer.com)
+- **Data Team Management** - Building and leading high-performing AI/data teams based on my experience as CDO
+- **Tech & Management Balance** - Bridging the gap between AI implementations and business objectives
 - **Data Platform Architecture** - Design and implementation of modern data platforms
 - **Distributed ML Training** - Ray-based solutions for scaling ML workloads
 - **MLOps Implementation** - Building robust ML pipelines and deployment workflows
-- **Data Engineering** - ETL/ELT pipeline development and optimization
-- **Technical Mentorship** - Guiding teams in adopting best practices
+- **Technical Mentorship** - Guiding teams in adopting AI best practices
 
-My unique combination of management experience as a former CDO and hands-on technical expertise allows me to provide comprehensive guidance to startups at various stages of growth.
+My unique combination of management experience as a former CDO, current leadership role at Openlayer, and hands-on technical expertise in AI Governance allows me to provide comprehensive guidance to startups at various stages of AI adoption.
 
 Interested in working together? Contact me through [Upwork](https://www.upwork.com/freelancers/~019eb14406aa6dc933) or [LinkedIn](https://www.linkedin.com/in/viniciusdsmello/).
 
@@ -57,6 +59,9 @@ Interested in working together? Contact me through [Upwork](https://www.upwork.c
 ![](https://img.shields.io/badge/Cloud-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Leadership-DataStrategy-informational?style=flat&logo=strategy&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Management-TeamLeadership-informational?style=flat&logo=microsoft-teams&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/AI-Governance-informational?style=flat&logo=openai&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/AI-Observability-informational?style=flat&logo=grafana&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/AI-Evals-informational?style=flat&logo=checkmarx&logoColor=white&color=blueviolet)
 
 <i>Follow me:</i><br>
 
@@ -88,96 +93,4 @@ Interested in working together? Contact me through [Upwork](https://www.upwork.c
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viniciusdsmello&theme=onedark)](https://git.io/streak-stats)
 
 ![Vinícius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viniciusdsmello&theme=react-dark)
-
-# Personal Website - Vinicius Mello
-
-This repository contains the source code for my personal website, built with [Hugo](https://gohugo.io/) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme. The website showcases my professional background, projects, companies I've worked for, and articles I've written.
-
-## Structure
-
-The website is organized into the following sections:
-
-- **Home**: Landing page with basic information
-- **About**: Detailed information about me and my skills
-- **Articles**: Blog posts and articles I've written
-- **Projects**: Showcase of my professional and personal projects
-- **Companies**: Companies I've worked for
-- **Contact**: Contact information and form
-
-## Local Development
-
-### Prerequisites
-
-- [Hugo Extended](https://gohugo.io/installation/) (v0.111.3 or newer)
-- Git
-
-### Running Locally
-
-1. Clone this repository:
-   ```
-   git clone https://github.com/viniciusdsmello/viniciusdsmello.github.io.git
-   cd viniciusdsmello.github.io
-   ```
-
-2. Start the Hugo development server:
-   ```
-   hugo server -D
-   ```
-
-3. Open your browser and visit http://localhost:1313/
-
-## Creating New Content
-
-### New Article
-
-```bash
-hugo new content posts/my-new-article.md
-```
-
-Then edit the created file at `content/posts/my-new-article.md`.
-
-### New Project
-
-```bash
-hugo new content projects/my-new-project.md
-```
-
-Then edit the created file at `content/projects/my-new-project.md`.
-
-### New Company
-
-```bash
-hugo new content companies/company-name.md
-```
-
-Then edit the created file at `content/companies/company-name.md`.
-
-## Deployment
-
-The website is automatically deployed to GitHub Pages when changes are pushed to the main branch, using GitHub Actions.
-
-## Adding Images
-
-Place images in the `static/images` directory:
-
-- Profile images: `static/images/`
-- Blog images: `static/images/blog/`
-- Company logos: `static/images/companies/`
-- Project images: `static/images/projects/`
-
-Reference them in your markdown files like this:
-```markdown
-![Image Alt Text](/images/blog/image-name.jpg)
-```
-
-## Customization
-
-To modify the website's appearance:
-
-1. Edit the `hugo.yaml` file to change site-wide settings
-2. Modify or override theme components by creating files in the `layouts` directory
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
